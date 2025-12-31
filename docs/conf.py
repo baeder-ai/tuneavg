@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Telstra App'
+project = 'Tune AVG'
 copyright = '2025'
-author = 'Angie Elizabeth'
+author = 'Judy Baca'
 
 release = '1.0'
 
